@@ -535,11 +535,11 @@
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
 					13B07F861A680F5B00A75B9A = {
-						DevelopmentTeam = 67Q6744L7B;
+						DevelopmentTeam = D2XBEJ6876;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.Sandbox = {
-								enabled = 1;
+								enabled = 0;
 							};
 						};
 					};
@@ -948,7 +948,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
-				DEVELOPMENT_TEAM = 67Q6744L7B;
+				DEVELOPMENT_TEAM = D2XBEJ6876;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"(SRCROOT)/../node_modules/react-native-macos/React",
@@ -978,7 +978,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 67Q6744L7B;
+				DEVELOPMENT_TEAM = D2XBEJ6876;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"(SRCROOT)/../node_modules/react-native-macos/React",
